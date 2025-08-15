@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/<your-username>/AgriSathi.git
+git add .
+git commit -m "Initial AgriSathi submission"
+git push origin main
